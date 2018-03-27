@@ -130,7 +130,7 @@ $unzip android-ndk-r16b-linux-x86_64.zip
 Add the following command to ${HOME}/.bashrc to setup $ANDROID_NDK_HOME environment.
 
 ```shell
-export ANDROID_NDK_HOME=YOUR-PATH/TO/android-ndk-r16b
+export ANDROID_NDK_HOME=/home/ubuntu/android-ndk-r16b
 ```
 
 Then run the command to make effect.
