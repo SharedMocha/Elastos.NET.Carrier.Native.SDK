@@ -103,8 +103,14 @@ You need to get android NDK packages to build carrier NDKs for several targets, 
 #### Build on Linux
 
 ##### 1. Prepare enviroment
+Downlaod Pre-Reqs:
+sudo apt-get install python
+apt-get install unzip
 
 Download android NDK package for Linux (r13b or higher, suggested for r16b), and unzip it to $YOUR-PATH/TO.
+wget "https://dl.google.com/android/repository/android-ndk-r17-beta1-linux-x86_64.zip" 
+unzip android-ndk-r16b-linux-x86_64.zip
+
 
 Add the following command to ${HOME}/.bashrc to setup $ANDROID_NDK_HOME environment.
 
