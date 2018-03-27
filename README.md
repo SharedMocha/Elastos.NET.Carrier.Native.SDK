@@ -122,7 +122,7 @@ $apt-get install unzip
 
 Download android NDK package for Linux (r13b or higher, suggested for r16b), and unzip it to $YOUR-PATH/TO.
 ```shell
-$wget "https://dl.google.com/android/repository/android-ndk-r17-beta1-linux-x86_64.zip" 
+$wget "https://dl.google.com/android/repository/android-ndk-r16b-linux-x86_64.zip" 
 $unzip android-ndk-r16b-linux-x86_64.zip
 ```
 
