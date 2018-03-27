@@ -50,6 +50,12 @@ autoconf automake libtool shtool pkg-config gettext
 You can use brew or build the packages from the source code.
 
 #### 2. Build
+Clone github repor
+```shell
+$git clone https://github.com/elastos/Elastos.NET.Carrier.Native.SDK.git
+```
+This cloned location will be your $(SRC_ROOT)
+
 
 Change to `$(SRC_ROOT)/build` directory, and run:
 
