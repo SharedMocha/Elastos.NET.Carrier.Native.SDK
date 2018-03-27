@@ -11,6 +11,10 @@ Elastos Carrier is a decentralized peer to peer communication framework.
 #### 1. Install Pre-Requirements
 
 Execute following command to install all pre-requirements.
+Check System info
+```shell
+$lsb_release -a
+```
 
 ```shell
 $ sudo apt-get update
